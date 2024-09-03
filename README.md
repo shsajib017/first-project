@@ -2,4 +2,4 @@
 
 This is my first uploaded file in github.
 
-Beginnig of a new journey..
+Beginning of a new journey..
